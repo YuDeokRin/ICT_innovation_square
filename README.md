@@ -5,6 +5,4 @@
 ------------------------------------------------------------------------
 
 
-
-![Alt text](/C:\Users\Deok\Desktop\Deok\AI이노베이션 스퀘어\02.Python/to/curriculum.png)
-
+![Alt text](./curriculum.png)
